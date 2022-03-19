@@ -1,1 +1,1 @@
-# To-read-ad-display-matrix-of-size-m-n
+# To-read-and-display-matrix-of-size-m-n
