@@ -1,3 +1,4 @@
+//Program to read a matrix of size m x n form the keyboard and display the same using functions.
 #include <iostream>
 using namespace std;
 int matrix[100][100];
