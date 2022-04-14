@@ -15,12 +15,9 @@ double power(double m, int n=2)
 
 int main()
 {
-    int n;
-    double m, res;
-    cout << "Enter the number to be raised: ";
-    cin >> m;
-    cout << "Enter the power to which number to be raised: ";
-    cin >> n;
-    res = power(m, n);
-    cout << m << " raise to the power " << n << " is " << res;
+    cout << "When default argument is not used: ";
+    cout << power(3.14,3);
+    cout << "\n When default argument is used: ";
+    cout << power(3.14);
+    return 0;
 }
