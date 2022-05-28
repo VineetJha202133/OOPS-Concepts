@@ -52,7 +52,6 @@ public:
 
 int main()
 {
-    cout << "I am Birender. My roll no. is 202077. " << endl;
     Triangle t1;
     Trapezoid tp1;
     Hexagon h1;
